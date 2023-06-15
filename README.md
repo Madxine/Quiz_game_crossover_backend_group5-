@@ -1,5 +1,5 @@
-## Group Project fron WBS Coding School
+# Group Project fron WBS Coding School
  
-# Backend API for Quiz-game
+## Backend API for Quiz-game
 
  
