@@ -2,7 +2,7 @@
  
 ## Backend API for Quiz-game
 deployed on Render →
-[https://quiztime-7x8j.onrender.com/quiz](url)
+[Visit](https://quiztime-7x8j.onrender.com/quiz)
 
 ## Using Tools
 - JavaScript
